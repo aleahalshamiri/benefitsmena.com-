@@ -1,0 +1,336 @@
+Uri: http://benefitsmena.com/
+File Name: C:\Downloaded Web Sites\benefitsmena.com\index.htm
+Content Type: text/html
+
+Uri: http://benefitsmena.com/assets/css/style-ar.css
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\css\style-ar.css
+Content Type: text/css
+
+Uri: http://benefitsmena.com/assets/css/style.css
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\css\style.css
+Content Type: text/css
+
+Uri: http://benefitsmena.com/assets/fonts/Cairo/Cairo-Light.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\fonts\Cairo\Cairo-Light.ttf
+Content Type: application/octet-stream
+
+Uri: http://benefitsmena.com/assets/fonts/Montserrat/Montserrat-Regular.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\fonts\Montserrat\Montserrat-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: http://benefitsmena.com/assets/img/about.jpg
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\img\about.jpg
+Content Type: image/jpeg
+
+Uri: http://benefitsmena.com/assets/img/clients/client-1.png
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\img\clients\client-1.png
+Content Type: image/png
+
+Uri: http://benefitsmena.com/assets/img/clients/client-2.png
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\img\clients\client-2.png
+Content Type: image/png
+
+Uri: http://benefitsmena.com/assets/img/clients/client-3.png
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\img\clients\client-3.png
+Content Type: image/png
+
+Uri: http://benefitsmena.com/assets/img/clients/client-4.png
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\img\clients\client-4.png
+Content Type: image/png
+
+Uri: http://benefitsmena.com/assets/img/clients/client-5.png
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\img\clients\client-5.png
+Content Type: image/png
+
+Uri: http://benefitsmena.com/assets/img/clients/client-6.png
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\img\clients\client-6.png
+Content Type: image/png
+
+Uri: http://benefitsmena.com/assets/img/favicon.ico
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://benefitsmena.com/assets/img/goals.jpg
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\img\goals.jpg
+Content Type: image/jpeg
+
+Uri: http://benefitsmena.com/assets/img/hero-bg.jpg
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\img\hero-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://benefitsmena.com/assets/img/logo.png
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\img\logo.png
+Content Type: image/png
+
+Uri: http://benefitsmena.com/assets/img/message.jpg
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\img\message.jpg
+Content Type: image/jpeg
+
+Uri: http://benefitsmena.com/assets/img/service.jpg
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\img\service.jpg
+Content Type: image/jpeg
+
+Uri: http://benefitsmena.com/assets/img/testimonials/ahmed1.jpg
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\img\testimonials\ahmed1.jpg
+Content Type: image/jpeg
+
+Uri: http://benefitsmena.com/assets/img/testimonials/alaa.jpg
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\img\testimonials\alaa.jpg
+Content Type: image/jpeg
+
+Uri: http://benefitsmena.com/assets/img/testimonials/aleah.jpg
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\img\testimonials\aleah.jpg
+Content Type: image/jpeg
+
+Uri: http://benefitsmena.com/assets/img/testimonials/default.jpg
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\img\testimonials\default.jpg
+Content Type: image/jpeg
+
+Uri: http://benefitsmena.com/assets/img/testimonials/eman.jpg
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\img\testimonials\eman.jpg
+Content Type: image/jpeg
+
+Uri: http://benefitsmena.com/assets/img/testimonials/Haitham.jpg
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\img\testimonials\Haitham.jpg
+Content Type: image/jpeg
+
+Uri: http://benefitsmena.com/assets/img/testimonials/IMG-20210127-WA0033.jpg
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\img\testimonials\IMG-20210127-WA0033.jpg
+Content Type: image/jpeg
+
+Uri: http://benefitsmena.com/assets/img/testimonials/muth.jpeg
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\img\testimonials\muth.jpeg
+Content Type: image/jpeg
+
+Uri: http://benefitsmena.com/assets/img/values.jpg
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\img\values.jpg
+Content Type: image/jpeg
+
+Uri: http://benefitsmena.com/assets/img/vision.jpg
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\img\vision.jpg
+Content Type: image/jpeg
+
+Uri: http://benefitsmena.com/assets/img/why.jpg
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\img\why.jpg
+Content Type: image/jpeg
+
+Uri: http://benefitsmena.com/assets/js/main.js
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\js\main.js
+Content Type: application/javascript
+
+Uri: http://benefitsmena.com/assets/vendor/animate.css/animate.min.css
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\vendor\animate.css\animate.min.css
+Content Type: text/css
+
+Uri: http://benefitsmena.com/assets/vendor/aos/aos.css
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\vendor\aos\aos.css
+Content Type: text/css
+
+Uri: http://benefitsmena.com/assets/vendor/aos/aos.js
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\vendor\aos\aos.js
+Content Type: application/javascript
+
+Uri: http://benefitsmena.com/assets/vendor/bootstrap-icons/bootstrap-icons.css
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\vendor\bootstrap-icons\bootstrap-icons.css
+Content Type: text/css
+
+Uri: http://benefitsmena.com/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?856008caa5eb66df68595e734e59580d
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\vendor\bootstrap-icons\fonts\bootstrap-icons.woff2
+Content Type: application/font-woff2
+
+Uri: http://benefitsmena.com/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff?856008caa5eb66df68595e734e59580d
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\vendor\bootstrap-icons\fonts\bootstrap-icons.woff
+Content Type: font/x-woff
+
+Uri: http://benefitsmena.com/assets/vendor/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\vendor\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://benefitsmena.com/assets/vendor/bootstrap/css/bootstrap.rtl.min.css
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\vendor\bootstrap\css\bootstrap.rtl.min.css
+Content Type: text/css
+
+Uri: http://benefitsmena.com/assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\vendor\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: http://benefitsmena.com/assets/vendor/boxicons/css/boxicons.min.css
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\vendor\boxicons\css\boxicons.min.css
+Content Type: text/css
+
+Uri: http://benefitsmena.com/assets/vendor/boxicons/fonts/boxicons.eot
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\vendor\boxicons\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://benefitsmena.com/assets/vendor/boxicons/fonts/boxicons.svg?
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\vendor\boxicons\fonts\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: http://benefitsmena.com/assets/vendor/boxicons/fonts/boxicons.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\vendor\boxicons\fonts\boxicons.ttf
+Content Type: application/octet-stream
+
+Uri: http://benefitsmena.com/assets/vendor/boxicons/fonts/boxicons.woff
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\vendor\boxicons\fonts\boxicons.woff
+Content Type: font/x-woff
+
+Uri: http://benefitsmena.com/assets/vendor/boxicons/fonts/boxicons.woff2
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\vendor\boxicons\fonts\boxicons.woff2
+Content Type: application/font-woff2
+
+Uri: http://benefitsmena.com/assets/vendor/glightbox/css/glightbox.min.css
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\vendor\glightbox\css\glightbox.min.css
+Content Type: text/css
+
+Uri: http://benefitsmena.com/assets/vendor/glightbox/js/glightbox.min.js
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\vendor\glightbox\js\glightbox.min.js
+Content Type: application/javascript
+
+Uri: http://benefitsmena.com/assets/vendor/isotope-layout/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\vendor\isotope-layout\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: http://benefitsmena.com/assets/vendor/php-email-form/validate.js
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\vendor\php-email-form\validate.js
+Content Type: application/javascript
+
+Uri: http://benefitsmena.com/assets/vendor/swiper/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\vendor\swiper\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: http://benefitsmena.com/assets/vendor/swiper/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\benefitsmena.com\assets\vendor\swiper\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: http://benefitsmena.com/index-ar.php
+File Name: C:\Downloaded Web Sites\benefitsmena.com\index-ar.php.html
+Content Type: text/html
+
+Uri: http://benefitsmena.com/index.php
+File Name: C:\Downloaded Web Sites\benefitsmena.com\index.php.html
+Content Type: text/html
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\benefitsmena.com\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\benefitsmena.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\benefitsmena.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\benefitsmena.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\benefitsmena.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\benefitsmena.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\benefitsmena.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i
+File Name: C:\Downloaded Web Sites\benefitsmena.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v28/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\s\playfairdisplay\v28\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v28/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vXDXbtY.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\s\playfairdisplay\v28\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vXDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v28/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\s\playfairdisplay\v28\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v28/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebunDXbtY.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\s\playfairdisplay\v28\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebunDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v28/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDXbtY.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\s\playfairdisplay\v28\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\s\poppins\v19\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\s\poppins\v19\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\s\poppins\v19\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\s\poppins\v19\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\s\poppins\v19\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\s\poppins\v19\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\benefitsmena.com\s\poppins\v19\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
